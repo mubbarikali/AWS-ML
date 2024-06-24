@@ -1,0 +1,5 @@
+{
+  "id": "amazon_rekognition",
+  "configuration": "file:///home/ec2-user/environment/.c9",
+  "name": "amazon_rekognition"
+}
